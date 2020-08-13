@@ -72,3 +72,9 @@ body{
 .arrow:active{
     background-color: #7f8c8d
 }
+
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
